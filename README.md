@@ -13,8 +13,12 @@ HTML, CSS, JavaScript, VS Code, Chrome
 - Error handling added
 - Reload button added
 
+## Screenshots
+- Screenshots of output and code are included in the screenshots folder.
+
 ## API Used
 https://jsonplaceholder.typicode.com/users
 
 ## Result
+
 User data successfully displayed from API.
